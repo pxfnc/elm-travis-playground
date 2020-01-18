@@ -1,0 +1,15 @@
+language: elm
+elm:
+  - elm0.19.0
+
+install:
+  - -------------------
+  - echo install_script
+  - -------------------
+  - pwd
+
+script:
+  - -------------------
+  - echo install_script
+  - -------------------
+  - pwd
